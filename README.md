@@ -6,7 +6,11 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
 - *Lisible en texte brut* : le contenu reste compréhensible sans logiciel spécialisé.
 
 =======
+<<<<<<< HEAD
 - *Polyvalent* : pratique for timotechnolarsen
+=======
+- *Polyvalent* : pratique pourr
+>>>>>>> 8f6343453044d2139c80d7eb434bd50b7e318fc7
 - les notes, coucou
 >>>>>>> c9743bca1025af1f670de96ea6e9877852489116
 - les articles,
