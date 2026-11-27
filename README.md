@@ -4,8 +4,11 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
 - *Open-source et gratuit*
 - *Simple à écrire* : quelques caractères suffisent pour mettre en forme le texte.
 - *Lisible en texte brut* : le contenu reste compréhensible sans logiciel spécialisé.
-- *Polyvalent* : pratique pour
-- les notes, zizitop
+
+=======
+- *Polyvalent* : pratique for
+- les notes, coucou
+>>>>>>> c9743bca1025af1f670de96ea6e9877852489116
 - les articles,
 - les rapports et
 - la documentation.
