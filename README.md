@@ -4,7 +4,7 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
 - *Open-source et gratuit*
 - *Simple à écrire* : quelques caractères suffisent pour mettre en forme le texte.
 - *Lisible en texte brut* : le contenu reste compréhensible sans logiciel spécialisé.
-- *Polyvalent* : pratique pour
+- *Polyvalent* : pratique for
 - les notes,
 - les articles,
 - les rapports et
